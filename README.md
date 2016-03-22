@@ -38,7 +38,8 @@ Special Thanks for "Hadoop PCAP library" ( https://github.com/RIPE-NCC/hadoop-pc
 1.Obtain Splunk/Hunk installation package.
 2.Extract the binaries
 3.Copy bin/jars/SplunkMR-*.jar hunklib directory.
-4.ant and find build/jar/splunk-hunk-pcap-reader.jar file.
+4.Get the latest source code from https://github.com/RIPE-NCC/hadoop-pcap and make jar file of the hadoop-pcap. Put it into lib directory.
+5.ant and find build/jar/splunk-hunk-pcap-reader.jar file.
 
 ### Note
 
